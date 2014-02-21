@@ -1,6 +1,8 @@
 JVo
 ===
 
-Making changes to my file!!!  Yippee!!!
+This is my first repo. 
 
-Here are a few more changes.  I just want you all to know I feel like crap today!  Yuck...very sick!  UGH!!!
+I am a member of the [Arizona State University](http://www.asu.edu) - [Center for Policy Informatics](http://cpi.asu.edu).
+
+The GitHub organization page for the Center for Policy Informatics can be found [here](https://github.com/orgs/ASU-CPI).
